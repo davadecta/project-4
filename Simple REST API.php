@@ -1,6 +1,5 @@
 <?php
 
-
 // Connect to the database
 $dsn = 'mysql:host=localhost;dbname=my_rest';
 $username = 'root';
